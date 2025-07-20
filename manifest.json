@@ -383,5 +383,23 @@
             "sts_version": "03-07-2022"
         }
 
+    },
+    "DimlyGambler": {
+        "url": "mods/DimlyGambler.jar",
+        "steamId": "",
+        "info": {
+            "modid": "DimlyGambler",
+            "name": "DimlyGambler（暗淡赌徒）",
+            "author_list": [
+                "Dimly"
+            ],
+            "description": "一个原创MOD，有兴趣就来试一下？图片素材来源于网络（全是galgame），角色贴图是在恶搞我的同学（）",
+            "dependencies": [
+                "basemod"
+            ],
+            "version": "0.1.1",
+            "sts_version": "03-07-2022"
+        }
+
     }
 }
